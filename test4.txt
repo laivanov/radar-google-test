@@ -1,1 +1,1 @@
-EXTRA_KEY="AIzaSyC0_Lb4YmBv9Num1Fig_ntnFwdr9LuFE1o"
+EXTRA_KEY="AIzaSyC0_Lb4YmBv9Num1Fig_ntnFwdr9LuFE1"
