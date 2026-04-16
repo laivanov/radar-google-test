@@ -4,3 +4,4 @@ db_password: !vault |
           393837393837393837
 
 api_key: "12345-plain-secret"
+# trigger scan
