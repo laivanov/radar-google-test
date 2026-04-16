@@ -1,0 +1,6 @@
+db_password: !vault |
+          $ANSIBLE_VAULT;1.1;AES256
+          6237613633666336343337
+          393837393837393837
+
+api_key: "12345-plain-secret"
